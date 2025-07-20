@@ -1,0 +1,53 @@
+  #dragg {
+    background-color: red;
+    width: 300px;
+    height: auto;
+    border: 1px solid red;
+  }
+
+  #dragg img {
+    width: 100%;
+  }
+
+  .item {
+    padding: 150px 50px;
+  }
+
+  .box {
+    padding: 150px 0;
+  }
+
+  .bg0 {
+    background-color: #000000;
+  }
+
+  .parallax-window {
+    min-height: 600px;
+    background: transparent;
+}
+
+.sp{
+  color: white;
+margin: 200px 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
